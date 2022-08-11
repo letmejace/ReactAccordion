@@ -7,7 +7,7 @@ This is a ReactAccordion which can see Question.
 - React
 - Javascript(ES6)  
 - HTML
-- CSS     
+- CSS       
 
 ## Description 
 
